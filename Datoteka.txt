@@ -1,2 +1,4 @@
 test jedan
 test dva
+test tri
+tet 4
